@@ -6,3 +6,4 @@ dependencies:
   - numpy
   - matplotlib
   - basemap
+  - basemap-data-hires
